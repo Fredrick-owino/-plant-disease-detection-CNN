@@ -8,8 +8,8 @@ I am a Computer Science student at the Technical University of Mombasa, passiona
 
 A convolutional neural network (CNN)-based system for plant disease detection and prediction. The model analyzes plant images, identifies diseases, and provides accurate predictions. Performance is evaluated using a confusion matrix to ensure reliability in real-world agricultural applications.
 
-## 🌱 Currently Learning:
-- Mobile app development using Flutter for integrating AI systems in farming.
+## 🌱 Currently :
+- Working on breast cancer detection system.
 - Advanced Machine Learning techniques for agriculture tech solutions.
 
 ## 📫 Contact Me:
